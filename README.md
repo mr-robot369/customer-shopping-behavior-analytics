@@ -53,13 +53,9 @@ Analysis → Power BI Dashboard → Business Recommendations
 -   Age Group Analysis
 -   Dynamic Filters & Slicers
 
-> Add your dashboard screenshot as **dashboard.png** in the repository
-> and reference it here.
-
-## Repository Structure
-
-Dataset/ Python/ SQL/ PowerBI/ Images/dashboard.png
-Report/Project_Report.pdf README.md
+<p align="center">
+  <img src="Images/dashboard.png" alt="Customer Shopping Behavior Dashboard" width="1000"/>
+</p>
 
 ## Skills Demonstrated
 
